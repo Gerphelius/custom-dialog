@@ -1,0 +1,9 @@
+dialog {
+  border: none;
+  background: transparent;
+}
+
+.content-wrapper {
+  background-color: white;
+  padding: 10px 20px;
+}
